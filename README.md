@@ -69,3 +69,4 @@ if err != nil {
 ```
 
 For guidance and an outline process for choosing appropriate parameters see https://tools.ietf.org/html/draft-irtf-cfrg-argon2-04#section-4.
+
